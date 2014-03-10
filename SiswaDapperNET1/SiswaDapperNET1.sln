@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiswaDapperNET1", "SiswaDapperNET1.csproj", "{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SiswaDapperVBNET1", "..\SiswaDapperVBNET1\SiswaDapperVBNET1.vbproj", "{24B7DE79-EE92-460B-A42A-8E874429318A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Debug|x86.ActiveCfg = Debug|x86
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Debug|x86.Build.0 = Debug|x86
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Release|x86.ActiveCfg = Release|x86
+		{DA77C8A8-F175-48C2-AF07-57A4AE1B7DE6}.Release|x86.Build.0 = Release|x86
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Debug|x86.ActiveCfg = Debug|x86
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B7DE79-EE92-460B-A42A-8E874429318A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
